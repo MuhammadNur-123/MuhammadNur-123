@@ -1,6 +1,6 @@
-![logo](https://github.com/nayeem-miah/nayeem-miah/blob/main/Banner.png)
 
-<h1 align="center">Hi 👋, I'm Nayeem</h1>
+
+<h1 align="center">Hi 👋, I'm MuhammadNur-123</h1>
 <h3 align="center">A passionate Frontend Developer from Bangladesh.</h3>
 
 <div align="center">
@@ -56,22 +56,22 @@
 
 <h2 align="left">📊 GitHub Stats:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nayeem-miah&show_icons=true&locale=en&theme=radical" alt="nayeem-miah" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadNur-123&show_icons=true&locale=en&theme=radical" alt="MuhammadNur-123" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayeem-miah&theme=radical" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadNur-123&theme=radical" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nayeem-miah&show_icons=true&locale=en&layout=compact&theme=radical" alt="most-used-languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadNur-123&show_icons=true&locale=en&layout=compact&theme=radical" alt="most-used-languages" />
 </p>
 
 ---
 
 <h2 align="left">🌟 Total Contributions</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayeem-miah&theme=dark" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadNur-123&theme=dark" alt="streak" />
 </p>
 
 ---
