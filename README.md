@@ -1,5 +1,5 @@
-<a href="https://ibb.co.com/dWwh94w"><img src="https://i.ibb.co.com/mDVxs5V/nur-cv.jpg" alt="nur-cv" border="0"></a>
 
+<a href="https://ibb.co.com/vLkSXhv"><img src="https://i.ibb.co.com/vLkSXhv/Cv-pic-1.png" alt="Cv-pic-1" border="0"></a>
 <h1 align="center">Hi 👋, I'm MuhammadNur-123</h1>
 <h3 align="center">A passionate Frontend Developer from Bangladesh.</h3>
 
