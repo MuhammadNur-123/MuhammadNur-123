@@ -39,9 +39,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,express,mongodb,html,css,tailwind,nodejs,firebase,github,illustrator,vscode,git,daisyui,typescript,java,python" 
+    <img src="https://skillicons.dev/icons?i=js,html,css,firebase,github,vscode,git,java,python" 
          alt="technology and tools icons" 
-         title="React, JavaScript, Express, MongoDB, HTML, CSS, Tailwind, Node.js, Firebase, GitHub, Illustrator, VSCode, Git, DaisyUI, TypeScript, Java, Python" />
+         title="javaScript,  HTML, CSS, Firebase, GitHub, VSCode, Git, Java, Python" />
   </a>
 </p>
 
