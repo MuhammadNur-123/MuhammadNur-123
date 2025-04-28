@@ -29,10 +29,11 @@ My goal is to deliver meaningful, scalable applications that provide real-world 
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-  <a href="https://www.linkedin.com/in/nayeem-islam-734719307" target="blank">
+  <a href="www.linkedin.com/in/
+muhammadnur123" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100042968569904" target="blank">
+  </a><br>
+  <a href="https://www.facebook.com/Muhammad579502nur" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
   </a>
 </p>
