@@ -1,87 +1,89 @@
-<a href="https://ibb.co.com/vLkSXhv"><div stlye='size=50px'><img src="https://i.ibb.co.com/CVQfP6s/Cv-pic-1.png" alt="Cv-pic-1" border="0"></div></a>
+<a href="https://ibb.co.com/vLkSXhv">
+  <div style="size:50px">
+    <img src="https://i.ibb.co.com/CVQfP6s/Cv-pic-1.png" alt="Cv-pic-1" border="0">
+  </div>
+</a>
+
 <h1 align="center">Hi 👋, I'm MuhammadNur-123</h1>
-<h3 align="center">A passionate Python Developer from Bangladesh.</h3>
+<h3 align="center">A passionate Python & Django Developer from Bangladesh</h3>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nayeem-miah" alt="trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=MuhammadNur-123&theme=onestar&no-frame=true" alt="github trophies" />
   </a>
 </div>
 
 ---
 
-<h2 align="left">About Me:</h2>
+<h2 align="left">🧠 About Me</h2>
+
 <div style="border: 2px solid #4CAF50; border-radius: 10px; padding: 15px; background-color: #f9f9f9;">
   <p align="left">
-  I am a passionate web developer skilled in Python, Django, HTML, CSS, JavaScript, and Bootstrap.
-I specialize in creating dynamic, responsive web applications and managing backend systems with SQL databases.
-Beyond web development, I have a growing interest in Machine Learning and enjoy building intelligent solutions using Python.
-I am committed to writing clean, efficient code and continuously learning new technologies to enhance my skills.
-My goal is to deliver meaningful, scalable applications that provide real-world value and improve user experience.
-
-  </p>
-  <p align="left">
-    I thrive on solving problems and continuously improve my skills through hands-on projects. Currently working on urbanDrive, a car rental service, I aim to create impactful projects that enhance user experiences. Let’s connect and share ideas!
+    I am a passionate developer with expertise in <b>Python</b> and <b>Django</b> for backend development.<br/>
+    Skilled in building responsive and dynamic web applications using <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, and <b>Bootstrap</b>.<br/>
+    I have a strong background in <b>SQL databases</b> and backend management.<br/>
+    Additionally, I am exploring the world of <b>Machine Learning</b> to create intelligent and data-driven solutions.<br/>
+    I am committed to writing clean, efficient code and continuously upgrading my skillset with modern technologies.<br/>
+    Currently working on <b>urbanDrive</b>, a car rental service project to enhance user experience with practical solutions.<br/>
+    Let's connect and create something impactful together!
   </p>
 </div>
 
 ---
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">🤝 Connect With Me</h2>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammadnur123/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-  </a><br>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://www.facebook.com/Muhammad579502nur" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 
-<br/>
-
 ---
-<h2 align="">🛠️ Technology and Tools</h2>
+
+<h2 align="left">🛠️ Skills & Tools</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,firebase,github,vscode,git,java,python" 
-         alt="technology and tools icons" 
-         title="javaScript,  HTML, CSS, Firebase, GitHub, VSCode, Git, Java, Python" />
+    <img src="https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,mongodb,mysql,git,github,vscode,linux" alt="skills" />
   </a>
 </p>
 
 <p align="center">
-  <i>Hover over the icons for a subtle animation!</i>
+  <i>Hover over the icons to learn more!</i>
 </p>
-
-
 
 ---
 
-<h2 align="left">📊 GitHub Stats:</h2>
+<h2 align="left">📈 GitHub Stats</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadNur-123&show_icons=true&locale=en&theme=radical" alt="MuhammadNur-123" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadNur-123&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadNur-123&theme=radical" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadNur-123&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadNur-123&show_icons=true&locale=en&layout=compact&theme=radical" alt="most-used-languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadNur-123&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 <h2 align="left">🌟 Total Contributions</h2>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadNur-123&theme=dark" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadNur-123&theme=dark" alt="Total Contributions" />
 </p>
 
 ---
 
-<h4 align="center">Thanks for visiting my profile! 😊</h4>
+<h2 align="center">✨ Thanks for visiting my profile! ✨</h2>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xT39D6fS1WwzO3zIHG/giphy.gif" alt="animated" width="500"/>
+  <img src="https://media.giphy.com/media/xT39D6fS1WwzO3zIHG/giphy.gif" alt="Thank You" width="400"/>
 </div>
