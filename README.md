@@ -1,6 +1,6 @@
 <a href="https://ibb.co.com/vLkSXhv"><div stlye='size=50px'><img src="https://i.ibb.co.com/CVQfP6s/Cv-pic-1.png" alt="Cv-pic-1" border="0"></div></a>
 <h1 align="center">Hi 👋, I'm MuhammadNur-123</h1>
-<h3 align="center">A passionate Frontend Developer from Bangladesh.</h3>
+<h3 align="center">A passionate Python Developer from Bangladesh.</h3>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -13,7 +13,12 @@
 <h2 align="left">About Me:</h2>
 <div style="border: 2px solid #4CAF50; border-radius: 10px; padding: 15px; background-color: #f9f9f9;">
   <p align="left">
-    I'm a Junior Frontend Developer with a passion for crafting responsive web applications. Proficient in HTML, CSS, JavaScript, and React.js, I also work with Node.js, Express.js, MongoDB, and TypeScript for backend development.
+  I am a passionate web developer skilled in Python, Django, HTML, CSS, JavaScript, and Bootstrap.
+I specialize in creating dynamic, responsive web applications and managing backend systems with SQL databases.
+Beyond web development, I have a growing interest in Machine Learning and enjoy building intelligent solutions using Python.
+I am committed to writing clean, efficient code and continuously learning new technologies to enhance my skills.
+My goal is to deliver meaningful, scalable applications that provide real-world value and improve user experience.
+
   </p>
   <p align="left">
     I thrive on solving problems and continuously improve my skills through hands-on projects. Currently working on urbanDrive, a car rental service, I aim to create impactful projects that enhance user experiences. Let’s connect and share ideas!
