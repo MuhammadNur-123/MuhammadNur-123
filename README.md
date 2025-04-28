@@ -35,7 +35,7 @@
   <a href="https://www.facebook.com/Muhammad579502nur" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="mailto:muhammadnur123@gmail.com" target="_blank">
+  <a href="mailto:nurhossen579502@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
