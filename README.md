@@ -68,11 +68,10 @@
 
 ---
 
-<!-- Contributions -->
-## 🔥 Contributions
+<h2 align="left">🌟 Total Contributions</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MuhammadNur-123&theme=react-dark&bg_color=1a1b27&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadNur-123&theme=dark" alt="Total Contributions" />
 </p>
 
 ---
