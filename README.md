@@ -48,7 +48,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,mongodb,mysql,git,github,vscode,linux" alt="skills" />
+    <img src="https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,mysql,git,github,vscode,linux" alt="skills" />
   </a>
 </p>
 
